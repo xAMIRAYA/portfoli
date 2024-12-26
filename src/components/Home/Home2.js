@@ -4,8 +4,8 @@ import myImg from "../../Assets/aya2.jpg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
   AiFillInstagram,
+  AiFillMail,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
@@ -80,16 +80,16 @@ function Home2() {
                   <FaLinkedinIn />
                 </a>
               </li>
-              {/* <li className="social-icons">
+              <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://mail.google.com/mail/u/0/?hl=fr#sent"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
                 >
-                  <AiFillInstagram />
+                  <AiFillMail/>
                 </a>
-              </li> */}
+              </li>
             </ul>
           </Col>
         </Row>
