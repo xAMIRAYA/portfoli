@@ -97,7 +97,7 @@ button:focus {
 
 .navbar-toggler span {
   display: block !important;
-  background-color: rgba(20, 61, 88, 0.911) !important;
+  background-color: rgba(37, 54, 128, 0.911) !important;
   height: 4px !important;
   width: 27px !important;
   margin-top: 5px !important;
@@ -281,7 +281,7 @@ button:focus {
 }
 
 .main-name {
-  color: #0a3370;
+  color: #3e6aac;
 }
 
 .Typewriter__wrapper {
@@ -291,7 +291,7 @@ button:focus {
 }
 .Typewriter__cursor {
   font-size: 2.4em !important;
-  color: rgba(20, 61, 88, 0.911) !important;
+  color: rgba(43, 76, 167, 0.911) !important;
 }
 
 @media (max-width: 767px) {
@@ -383,7 +383,7 @@ button:focus {
 }
 
 .home-social-icons:hover {
-  color: rgba(20, 61, 88, 0.911);
+  color: rgba(45, 137, 199, 0.911);
   box-shadow: 0 0 5px rgba(20, 61, 88, 0.911);
   text-shadow: 0 0 2px rgba(20, 61, 88, 0.911);
 }
@@ -395,7 +395,7 @@ button:focus {
 }
 
 .icon-colour {
-  color: rgba(46, 107, 177, 0.911) !important;
+  color: rgba(19, 69, 126, 0.911) !important;
 }
 
 /* --------- */
@@ -439,7 +439,7 @@ button:focus {
 }
 
 .blockquote-footer {
-  color: #a588c0 !important;
+  color: #425baa !important;
 }
 /* --------- */
 /* Projects */
