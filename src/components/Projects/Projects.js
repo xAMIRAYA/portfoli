@@ -12,7 +12,7 @@ function Projects() {
       <Particle />
       <Container>
         <h1 className="project-heading">
-          My Recent <strong className="purple">Works </strong>
+          Mes <strong className="purple">Projet </strong>
         </h1>
         <p style={{ color: "white" }}>
           Here are a few projects I've worked on recently.
@@ -33,7 +33,8 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Copains"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              description="Lors d’un hackathon collaboratif, j’ai participé à la création de Copain d’Avant , une application visant à reconnecter des anciens amis ou collègues. 
+              Ce projet ma permis dexplorer le travail en équipe sous pression et dappliquer des solutions innovantes en développement fullstack."
               ghLink="#"
             />
           </Col>
@@ -43,7 +44,8 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="Gestion Bancaire"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              description="Cette application bancaire a été développée pour offrir une gestion simple et intuitive des comptes clients.
+              elle met l'accent sur la sécurité des données et la fluidité de l'expérience utilisateur. Ce projet illustre mes compétences en développement backend et en conception de bases de données relationnelles."
               ghLink="#"
             />
           </Col>
