@@ -46,7 +46,7 @@ function Projects() {
               title="Gestion Bancaire"
               description="Cette application bancaire a été développée pour offrir une gestion simple et intuitive des comptes clients.
               elle met l'accent sur la sécurité des données et la fluidité de l'expérience utilisateur. Ce projet illustre mes compétences en développement backend et en conception de bases de données relationnelles."
-              ghLink="#"
+              ghLink="https://github.com/xAMIRAYA/gestionBANK"
             />
           </Col>
         </Row>
